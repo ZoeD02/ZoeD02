@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zoé Duhamel 
 - 👀 I’m interested in finance and programming 
 - 🌱 I’m currently enrolled in a Bachelor of Commerce Finance Major at Condordia University 
-- 💞️ I’m looking to collaborate on small projects that will help me use Python language in my future finance career. (I am a begginer).  
+- 💞️ I’m looking to collaborate on small projects that will help me use Python language in my professional life. (I am a begginer).  
 - 📫 How to reach me : _zduhame@live.concordia.ca
 
 <!---
